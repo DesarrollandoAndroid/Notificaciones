@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Notificaciones</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Botones -->
+    <string name="btToast">Toast</string>
+    <string name="btStatus">Notificación ActionBar</string>
+    <string name="btAlert">Diálogo de Alerta</string>
+    <string name="btProgress">Diálogo de Progreso</string>
+    <string name="datePicker">DatePicker</string>
+    <string name="timePicker">TimePicker</string>
+
+    <!-- Toast -->
+    <string name="toast">Esto es un Toast personalizado.</string>
+
+    <!-- StatusBar Notification -->
+    <string name="notificacion">StatusBar Notification!</string>
+    <string name="titulo">Esto es una StatusBar Notification.</string>
+    <string name="texto">Este es el texto de la StatusBar Notification.</string>
+
+    <!-- AlertDialog -->
+    <string name="tituloAlertDialog">Esto es un Alert Dialog</string>
+    <string name="alertDialogMessage">¿Desea salir de la aplicación?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+
+    <!-- ProgressDialog -->
+    <string name="tituloProgressDialog">Esto es un Progress Dialog</string>
+    <string name="cargaProgress">Espere unos segundos.</string>
+
+</resources>
